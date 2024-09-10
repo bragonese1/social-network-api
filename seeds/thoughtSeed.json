@@ -1,0 +1,27 @@
+[
+    {
+      "thoughtText": "We're aiming for that 72-10 season!",
+      "username": "MichaelJordan",
+      "reactions": [
+        {
+          "reactionBody": "You bet we are!",
+          "username": "ScottiePippen"
+        },
+        {
+          "reactionBody": "Rodzilla is ready to rebound!",
+          "username": "DennisRodman"
+        }
+      ]
+    },
+    {
+      "thoughtText": "I've got your back MJ!",
+      "username": "ScottiePippen",
+      "reactions": [
+        {
+          "reactionBody": "You always do, Scottie!",
+          "username": "MichaelJordan"
+        }
+      ]
+    }
+  ]
+  
